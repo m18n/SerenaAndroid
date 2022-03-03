@@ -1,0 +1,3 @@
+/home/misha/AndroidStudioProjects/Test/app/src/main/cpp/clientSerena/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/misha/AndroidStudioProjects/Test/app/src/main/cpp/clientSerena/build/Debug/CMakeFiles/edit_cache.dir
+/home/misha/AndroidStudioProjects/Test/app/src/main/cpp/clientSerena/build/Debug/CMakeFiles/ClientSerena.dir
